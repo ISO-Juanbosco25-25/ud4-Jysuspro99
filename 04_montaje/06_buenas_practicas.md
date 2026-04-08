@@ -1,6 +1,6 @@
 # ✅ BUENAS PRÁCTICAS EN EL MONTAJE DE EQUIPOS
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno: Jesús Castiblanque Cuadra
 ## 🖥️ Equipo:
 
 ---
@@ -19,7 +19,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 1. SEGURIDAD
 
-- 
+- Realizar el montaje en un lugar libre de electricidad estática
 - 
 - 
 
@@ -29,7 +29,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧰 2. USO DE HERRAMIENTAS
 
-- 
+- Usar las herramientas necesarias y adecuadas 
 - 
 - 
 
@@ -39,8 +39,8 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧩 3. MONTAJE DE COMPONENTES
 
-- 
-- 
+- No forzar
+- No dejar tornillos son poner o muy sueltos o demasiado apretados
 - 
 
 💡 Ejemplo: no forzar los componentes al instalarlos
@@ -49,8 +49,8 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 4. CONEXIONES Y CABLEADO
 
-- 
-- 
+- Conectar bien todo
+- No forzarlos demasiado
 - 
 
 💡 Ejemplo: comprobar todas las conexiones antes de encender
@@ -59,8 +59,8 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🌡️ 5. ORGANIZACIÓN Y VENTILACIÓN
 
-- 
-- 
+- Organizar bien los cables
+- Colocar bien los ventaldores
 - 
 
 💡 Ejemplo: ordenar los cables para facilitar el flujo de aire
@@ -69,7 +69,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧠 6. COMPROBACIONES FINALES
 
-- 
+- Revison total
 - 
 - 
 
@@ -79,7 +79,7 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 💼 7. ACTITUD PROFESIONAL
 
-- 
+- trabajar bien y tenerlo todo bien colocado
 - 
 - 
 
