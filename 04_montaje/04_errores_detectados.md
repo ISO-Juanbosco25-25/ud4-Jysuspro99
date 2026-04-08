@@ -1,6 +1,6 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno: Jesñ
+## 👨‍💻 Alumno: Jesüs Castiblanque Cuadra
 ## 🖥️ Equipo:
 
 ---
