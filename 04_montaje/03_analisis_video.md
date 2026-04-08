@@ -139,7 +139,7 @@ No
 
 ## ⚠️ Riesgos potenciales
 
-- 
+- No montar bien algun componente
 - 
 - 
 
