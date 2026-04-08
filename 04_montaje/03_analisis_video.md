@@ -1,6 +1,6 @@
 # 🔍 ANÁLISIS DEL VÍDEO DE MONTAJE
 
-## 👨‍💻 Alumno:Jesús Castiblanque Cuadra
+## 👨‍💻 Alumno: Jesús Castiblanque Cuadra
 ## 🖥️ Equipo:
 
 ---
