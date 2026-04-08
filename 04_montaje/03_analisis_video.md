@@ -26,13 +26,18 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 📌 Minuto del vídeo:
 
 📌 ¿Qué se hace en esta fase?
+Preparar las herramientas y desmontar el ordenador
 
 📌 ¿Se realiza correctamente? (Sí / No / Parcialmente)
+Si
 
 📌 Observaciones:
 - Organización del espacio
+Buena
 - Uso de herramientas
+Destornillador
 - Seguridad (electricidad estática, etc.)
+Pulsera antiestatica
 
 📌 Valoración técnica:
 (Explica si está bien hecho y por qué)
@@ -46,13 +51,17 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 📌 Minuto del vídeo:
 
 📌 ¿Qué se hace?
+Instalar los componentes principales
 
 📌 ¿Se realiza correctamente?
+Si
 
 📌 Problemas observados:
+Ninguno
 
 📌 Riesgos detectados:
 (Ejemplo: mala colocación, presión incorrecta, etc.)
+Ninguno
 
 📌 Valoración técnica:
 
@@ -63,10 +72,13 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 📌 Minuto del vídeo:
 
 📌 ¿Qué se hace?
+Instalar el disco duro
 
 📌 ¿Se realiza correctamente?
+Si
 
 📌 Observaciones:
+Ninguna
 
 📌 Valoración técnica:
 
@@ -77,14 +89,18 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 📌 Minuto del vídeo:
 
 📌 ¿Qué se hace?
+Conectar los distintos cables
 
 📌 ¿Se realiza correctamente?
+Si
 
 📌 Problemas detectados:
 - Cables mal conectados
+Si
 - Desorden
+Un poco
 - Riesgo de mala ventilación
-
+No
 📌 Valoración técnica:
 
 ---
