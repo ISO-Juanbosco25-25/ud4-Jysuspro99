@@ -26,16 +26,16 @@ Las mejoras deben ser:
 
 📌 ¿Qué mejorarías?
 (Describe el cambio que harías)
-
+Colocacion de los cables
 📌 ¿Por qué?
 (Explica el motivo)
-
+Quedan todos desordenados
 📌 ¿Cómo lo harías mejor?
 (Explica el proceso correcto)
-
+Ordenarlos cada uno por si lado atandolos con bridas
 📌 ¿Qué beneficio tiene?
 (Ejemplo: evitar errores, mejorar rendimiento, mayor seguridad…)
-
+Que todo quede mejor organizado y en orden
 ---
 
 # 🟢 MEJORA 2
