@@ -26,17 +26,24 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 📌 Minuto del vídeo: 00:00-04:28
 
 📌 ¿Qué se hace en esta fase?
+
 Desmontar el ordenador
 
 📌 ¿Se realiza correctamente? (Sí / No / Parcialmente)
+
 Si
 
 📌 Observaciones:
 - Organización del espacio
+
 Buena
+
 - Uso de herramientas
+
 Destornillador magnetico
+
 - Seguridad (electricidad estática, etc.)
+
 Pulsera antiestatica
 
 📌 Valoración técnica:
@@ -51,16 +58,20 @@ Todo queda bien desconectado y no se observan daños a ningun componente tras su
 📌 Minuto del vídeo: 04:30-09:05
 
 📌 ¿Qué se hace?
+
 Instalar los componentes principales
 
 📌 ¿Se realiza correctamente?
+
 Si
 
 📌 Problemas observados:
+
 Ninguno
 
 📌 Riesgos detectados:
 (Ejemplo: mala colocación, presión incorrecta, etc.)
+
 Ninguno
 
 📌 Valoración técnica:
@@ -72,12 +83,15 @@ Ninguno
 📌 Minuto del vídeo: 09:06-09:43
 
 📌 ¿Qué se hace?
+
 Instalar el disco duro
 
 📌 ¿Se realiza correctamente?
+
 Si
 
 📌 Observaciones:
+
 Ninguna
 
 📌 Valoración técnica:
@@ -89,17 +103,24 @@ Ninguna
 📌 Minuto del vídeo: 09:44-12:22
 
 📌 ¿Qué se hace?
+
 Conectar los distintos cables
 
 📌 ¿Se realiza correctamente?
+
 Si
 
 📌 Problemas detectados:
 - Cables mal conectados
+
 ninguno
+
 - Desorden
+
 Un poco
+
 - Riesgo de mala ventilación
+
 No
 📌 Valoración técnica:
 
