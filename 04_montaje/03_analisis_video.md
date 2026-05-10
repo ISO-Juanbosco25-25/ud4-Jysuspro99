@@ -13,7 +13,7 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 ## 🎬 VÍDEO ANALIZADO
 
-📌 Enlace al vídeo:
+📌 Enlace al vídeo: https://www.capcut.com/view/7637959763544130049?workspaceId=7315472539214594049
 
 ---
 
@@ -23,10 +23,10 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 ## 🧩 Fase 1: Preparación
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 00:00-04:28
 
 📌 ¿Qué se hace en esta fase?
-Preparar las herramientas y desmontar el ordenador
+Desmontar el ordenador
 
 📌 ¿Se realiza correctamente? (Sí / No / Parcialmente)
 Si
@@ -35,20 +35,20 @@ Si
 - Organización del espacio
 Buena
 - Uso de herramientas
-Destornillador
+Destornillador magnetico
 - Seguridad (electricidad estática, etc.)
 Pulsera antiestatica
 
 📌 Valoración técnica:
 (Explica si está bien hecho y por qué)
 
----
+Todo queda bien desconectado y no se observan daños a ningun componente tras su desmonte
 
 ## 🧩 Fase 2: Instalación de componentes principales
 
 (CPU, RAM, placa base)
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 04:30-09:05
 
 📌 ¿Qué se hace?
 Instalar los componentes principales
@@ -69,7 +69,7 @@ Ninguno
 
 ## 🧩 Fase 3: Instalación de almacenamiento
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 09:06-09:43
 
 📌 ¿Qué se hace?
 Instalar el disco duro
@@ -86,7 +86,7 @@ Ninguna
 
 ## 🧩 Fase 4: Cableado
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 09:44-12:22
 
 📌 ¿Qué se hace?
 Conectar los distintos cables
@@ -96,7 +96,7 @@ Si
 
 📌 Problemas detectados:
 - Cables mal conectados
-Si
+ninguno
 - Desorden
 Un poco
 - Riesgo de mala ventilación
